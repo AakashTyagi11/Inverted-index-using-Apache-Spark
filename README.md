@@ -22,6 +22,6 @@ Onclick Functionality: a function that computes the cosine similarity on the cli
 ---------------------------------------------------------------------------------------------------------
 
 Code_execution and results.mp4 - contains clipping of the code execution and results obtained.
-![Result](https://github.com/AakashTyagi11/Inverted-index-using-Apache-Spark/blob/master/Search%20%26%20result.JPG
+![Result](https://github.com/AakashTyagi11/Inverted-index-using-Apache-Spark/blob/master/Search%20%26%20result.JPG?raw=true)
 
 --------------------------------------------------------------------------------------------------------
